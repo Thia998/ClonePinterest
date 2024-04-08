@@ -14,6 +14,8 @@ Este proyecto es un clo de la interfas de usuarios de Pinterest, creado purament
 - **Google Fonst:** Para fuentes personalizadas.
 
 ### Vista Previa 
+![Demo](/imagenesDePinterest/ClonePinterest)
+
 
 ### Licencia 
 Distribuido bajo la licencia MIT. Consulta LICENSE para obtener mas información. 
